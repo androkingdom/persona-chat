@@ -96,6 +96,12 @@ For alternatives, see [Next.js Deployment Docs](https://nextjs.org/docs/deployme
 
 ---
 
+## 🎉 Live Demo
+ 
+ [Live Demo](https://persona-chat-silk.vercel.app/)
+
+---
+
 ## 🤝 Contributing
 
 Pull requests are welcome!
